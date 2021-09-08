@@ -1,0 +1,16 @@
+body {background: url(images/wallpaper.png);
+  background-size: cover;
+  background-repeat: no-repeat;}
+
+
+.center_picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.paragraph_font {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #000000;
+}
